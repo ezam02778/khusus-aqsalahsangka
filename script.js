@@ -13,11 +13,11 @@ const messages = [
     },
     {
         text: "KLIK KIRI",
-        image: "https://pin.it/4yDBLPPKO.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB61c_clZS6abdSgnN8KqdWvnJ9ibiu93ilLuEoc8NmlRIszbcg4jhxSWs&s=10.jpg"
     },
     {
         text: "terakhir, kalo \"no\" yauda ",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGi_S-RGn1xzrcmwwvEtU471M0t_vA5njRLzeeI77fiC0njvwYWcOAgZx&s=10.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jPIplh5hAayvwrcA7ugmKF-bczVLb2MOiWY0gM_tUeLYfW3XFe0-CCs&s=10.jpg"
     }
 ];
 
