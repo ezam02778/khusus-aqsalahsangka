@@ -25,11 +25,11 @@ Di file `script.js`, cari bagian ini:
 ```javascript
 const messages = [
     {
-        text: "plss mau dong",
-        image: "URL_GAMBAR_1"
+        text: "aw shit aw shit",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKR0roaZslcY6IkBpwNMOQyOqtJNwR8PSYDw_cRRUtsJ-zPkarQPI4poa8&s=10_GAMBAR_1"
     },
     {
-        text: "pls klik yg kiri",
+        text: "klik yg kiri",
         image: "URL_GAMBAR_2"
     },
     {
