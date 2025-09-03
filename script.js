@@ -122,7 +122,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 
 yesBtn.addEventListener('click', () => {
     title.innerHTML = "RUSSEL GANTENG RUSSEL GG GEMING";
-    document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
+    document.querySelector('img').src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt1MdJXaHGWQWpTFbN48GZyIyJSnqBO_ZPaw&s.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
