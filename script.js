@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "SEMOGA CEPAT SEMBUH",
-        image: "https://tenor.com/id/view/commievity-ahmad-dhani-gws-gif-21437410"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlV73KWE5Jg61E4i-3afv1zl7d4DToQDeMB4AVuKWbZj0FQTq6K3feN2o&s=10.jpg"
     },
     {
         text: "KLIK KIRI",
