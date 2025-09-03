@@ -8,12 +8,12 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "WELCOME BEK RUSSEL",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdbBX-H-UDVukF0Yno9DkHIW2aEEiTNi8JOYYDIB_pPZJj_nUXBB66qV4&s=10.jpg"
+        text: "SEMOGA CEPAT SEMBUH",
+        image: "https://pin.it/3Y58zYSEI.jpg"
     },
     {
         text: "KLIK KIRI",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKR0roaZslcY6IkBpwNMOQyOqtJNwR8PSYDw_cRRUtsJ-zPkarQPI4poa8&s=10.jpg"
+        image: "https://pin.it/4yDBLPPKO.jpg"
     },
     {
         text: "terakhir, kalo \"no\" yauda ",
