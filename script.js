@@ -121,8 +121,8 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "RUSSEL GANTENG RUSSEL GG GEMING";
-    document.querySelector('img').src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt1MdJXaHGWQWpTFbN48GZyIyJSnqBO_ZPaw&s.gif";
+    title.innerHTML = "GWS YAKKK -russel";
+    document.querySelector('img').src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdcehSe3PNPDWqGHVZ2ufRd6MH2EdvqIHs4xd_VtVdJOb2FbSYm96YdYQ&s=10.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
